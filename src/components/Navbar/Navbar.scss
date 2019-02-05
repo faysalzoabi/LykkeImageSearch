@@ -1,0 +1,11 @@
+@import "../../index.scss";
+
+.navbar{
+    background:$mainBlue;
+    padding: 0.5rem 1rem;
+    color: $mainWhite;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}

@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+$mainRed:rgba(255, 0, 0, 0.986);
+$mainBlack:black;
+$mainBlue:rgba(0, 0, 255, 0.918);
+$mainGreen:rgb(7, 231, 7);
+$mainWhite:#fff;
+$mainGrey:#ececee;
+
+body{
+    background:$mainGrey;
+    color:$mainGreen;
+    font-family: 'Courgette', cursive;
+}
+
